@@ -28,8 +28,12 @@ p {
 	overflow: hidden;
 }
 
+.menu-menu-1-container {
+	padding: 10px 0;
+}
+
 #header {
-	
+	padding-top: 30px !important;
 }
 
     h1 {
