@@ -1,8 +1,8 @@
 /*
 Theme Name: Yukyco's wordpress first theme by Dotinstall
-Theme URI: http://yukycohamabe.ciao.jp/texh_blog/
+Theme URI: https://good-inspiration.com/simplest/
 Author: Yukiko Hamabe
-Author URI: http://yukycohamabe.ciao.jp/tech_blog/
+Author URI: http://yukycohamabe.ciao.jp/e-learning/
 Description: Yukyco's Design 
 Version: 1.0
 */
@@ -10,6 +10,10 @@ Version: 1.0
 body {
 	font-size : 14px; 
 	font-family: Arial, Verdana;
+}
+
+.blog_title {
+	padding-left:20px;
 }
 
 a {
